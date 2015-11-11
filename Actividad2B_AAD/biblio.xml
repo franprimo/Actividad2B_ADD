@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libros>
+	<libro>
+		<titulo>Correr o Morir</titulo>
+		<autor>Kilian Jornet</autor>
+		<anoPublicacion>2011</anoPublicacion>
+		<editorial>Now Books</editorial>
+		<numPag>200</numPag>
+	</libro>
+	<libro>
+		<titulo>Un hombre en fuga</titulo>
+		<autor>Manuela Ronchi</autor>
+		<anoPublicacion>2012</anoPublicacion>
+		<editorial>Cultura ciclista</editorial>
+		<numPag>288</numPag>
+	</libro>
+</libros>
